@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\FileIO+GUI\bin\Debug\FileIO+GUI.exe.config
+C:\Users\LENOVO\source\repos\FileIO+GUI\bin\Debug\FileIO+GUI.exe
+C:\Users\LENOVO\source\repos\FileIO+GUI\bin\Debug\FileIO+GUI.pdb
+C:\Users\LENOVO\source\repos\FileIO+GUI\obj\Debug\FileIO+GUI.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FileIO+GUI\obj\Debug\FileIO_GUI.Form1.resources
+C:\Users\LENOVO\source\repos\FileIO+GUI\obj\Debug\FileIO_GUI.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\FileIO+GUI\obj\Debug\FileIO+GUI.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\FileIO+GUI\obj\Debug\FileIO+GUI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FileIO+GUI\obj\Debug\FileIO+GUI.exe
+C:\Users\LENOVO\source\repos\FileIO+GUI\obj\Debug\FileIO+GUI.pdb
